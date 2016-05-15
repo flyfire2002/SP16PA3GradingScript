@@ -1,7 +1,7 @@
 # SP16PA3GradingScript
 Note: 1. NO GUARD AGAINST:
-          A.MISSING FILES; 
-          B.INFINITE LOOPS.
+          a.MISSING FILES; 
+          b.INFINITE LOOPS.
       2. Timeout set to 240; more lenient that vocareum 60.
 
 Steps: 
